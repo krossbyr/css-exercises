@@ -1,0 +1,19 @@
+.odd-elements {
+    background-color: rgb(245, 153, 166);
+    font-family: verdana, sans-serif;
+}
+
+#second-element {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.third-elements {
+    font-size: 24px;
+}
+
+#fourth-element {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
